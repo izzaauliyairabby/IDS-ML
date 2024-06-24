@@ -41,12 +41,14 @@ Dataset
 - Macro Average F1-Score: 99.856%
 6. Conclusion
 
-Findings: Both classifiers performed exceptionally well, with Decision Tree slightly outperforming Random Forest.
-Next Steps: Explore ensemble methods, deep learning approaches, and real-time deployment feasibility.
+- Findings: Both classifiers performed exceptionally well, with Decision Tree slightly outperforming Random Forest.
+  Next Steps: Explore ensemble methods, deep learning approaches, and real-time deployment feasibility.
 7. References
 
-Sharafaldin, Iman & Habibi Lashkari, Arash & Ghorbani, Ali. (2018). Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization. 108-116. 10.5220/0006639801080116.
+- Sharafaldin, Iman & Habibi Lashkari, Arash & Ghorbani, Ali. (2018). Toward Generating a New Intrusion Detection 
+  Dataset and Intrusion Traffic Characterization. 108-116. 10.5220/0006639801080116.
+  
 8. Appendix
 
-Dataset Access: CIC-IDS-2018 Processed Traffic Data
-Processed Dataset: processed_friday_dataset.csv
+  Dataset Access: CIC-IDS-2018 Processed Traffic Data
+  Processed Dataset: processed_friday_dataset.csv
